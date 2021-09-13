@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [xli289@ucr.edu](mailto:xli289@ucr.edu)
 
 ---
 
 ## Mailing Address
-
-> 221B, Baker Street
+> 900 University Avenue, Winston Chung Hall 226
 >
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> Riverside, CA, 92521
+> 
+> USA
