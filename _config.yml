@@ -1,12 +1,11 @@
 remote_theme: ankitsultana/researcher@gem
 title: Xiao Li (李啸)
 url: "https://xiaoli.github.io"
-baseurl: "https://xiaoli.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: UA-191973079-1
+#tracking_id: UA-191973079-1
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
