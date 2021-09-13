@@ -4,42 +4,31 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
-
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm interested in the theory and practice of distributed systems, computer security and programming languages. My goal is to fill the gap of abstractions and interfaces between user-friendly sequential objects and complicated replicated objects with the help of type systems and automatic reasoning tools(Z3, CVC4, etc).
+
+Currently, I'm working on designing efficient consensus protocol with open membership.
+
+## News
+
+**Jul/2021**:  Our work Hamraz is accepted to IEEE S&P'22 (accept rate ~15%)!  
+**Jul/2020**:  Welcome to my talk in CAV'20 Session 3B about our Hampa paper.     
+**Jul/2020**:  Passed my Ph.D. candidacy exam!     
+**Apr/2020**:  Our work Hampa is accepted to CAV'20 (44 papers accepted out of 241).    
+**Sep/2019**:  Transfered to CS Ph.D. program at University of California, Riverside.    
+**Sep/2017**:  Attended University of California, Riverside for CS MS program.    
+**Jul/2017**:  Got my B.E. in Information Security from HUST(Huazhong University of Science and Technology) as *OutStanding Graduates*.    
+
+## Previous Projects
+
+**Hamraz**:  How to have **confidentiality, integrity, and availability** with as few machine as possible for replicated objects? Better yet, we got the work done automatically.
+
+**Hampa**:  How to keep the **invariant and recency** of replicated objects as user specified with as little coordination as possible? Skip the manual labour and try out our tool with the help of program synthesis and the state-of-art SMT solver.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hamraz: Resilient Object Partitioning and Replication](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf), *to appear in the 43rd IEEE Symposium on Security and Privacy, May 2022.
+2. [**CAV'20**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hampa: Solver-aided Recency-Aware Replication](https://www.cs.ucr.edu/~lesani/companion/cav20/CAV20.pdf), *in the 32nd International Conference on Computer-Aided Verification, July 2020.
