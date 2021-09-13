@@ -30,5 +30,5 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 ## Publications
 
-1. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hamraz: Resilient Object Partitioning and Replication](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf), *to appear in the 43rd IEEE Symposium on Security and Privacy, May 2022.
+1. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, Hamraz: Resilient Object Partitioning and Replication, *to appear in the 43rd IEEE Symposium on Security and Privacy, May 2022.
 2. [**CAV'20**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hampa: Solver-aided Recency-Aware Replication](https://www.cs.ucr.edu/~lesani/companion/cav20/CAV20.pdf), *in the 32nd International Conference on Computer-Aided Verification, July 2020.
