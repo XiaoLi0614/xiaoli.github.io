@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<img class="profile-picture" src="XiaoLiPic.JPG">
 
 ## About Me
 
