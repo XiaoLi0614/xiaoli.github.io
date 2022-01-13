@@ -5,11 +5,11 @@ layout: default
 
 ## About Me
 
-I am a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). I'm working as a graduate student researcher since the first day I entered S3(Safe and Smart Software) lab thanks to my super nice advisor.
+I am a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). I'm working as a graduate student researcher since the first day I entered S3 (Safe and Smart Software) lab thanks to my super nice advisor.
 
 ## Research Interest
 
-I'm interested in the theory and practice of distributed systems, computer security and programming languages. My goal is to fill the gap of abstractions and interfaces between user-friendly sequential objects and complicated replicated objects with the help of type systems and automatic reasoning tools(Z3, CVC4, etc).
+I'm interested in the theory and practice of distributed systems, computer security and programming languages. My goal is to fill the gap between abstractions and interfaces of user-friendly sequential objects and complicated replicated objects with the help of type systems and automatic reasoning tools (Z3, CVC4, etc).
 
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
@@ -27,7 +27,7 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 **Hamraz**:  How to have **confidentiality, integrity, and availability** with as few machine as possible for replicated objects? Better yet, we got the work done automatically.
 
-**Hampa**:  How to keep the **invariant and recency** of replicated objects as user specified with as little coordination as possible? Skip the manual labour and try out our tool with the help of program synthesis and the state-of-art SMT solver.
+**Hampa**:  How to keep the **invariant and recency** of replicated objects as user specified with as little coordination as possible? Skip the manual labour and try out our tool with the help of program synthesis and the state-of-art SMT solver. Our tool and open source project are available: [Hampa: tool](https://github.com/XiaoLi0614/HampaAE), [Hampa: code](https://github.com/XiaoLi0614/CVCAutomation)
 
 ## Publications
 
