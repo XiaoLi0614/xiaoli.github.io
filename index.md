@@ -15,7 +15,7 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 ## News
 
-**Oct/2021**:  I am selected and funded to attend PLMW@SPLASH 2021.
+**Oct/2021**:  I am selected and funded to attend PLMW@SPLASH 2021.  
 **Jul/2021**:  Our work Hamraz is accepted to IEEE S&P'22 (accept rate ~15%)!  
 **Jul/2020**:  Welcome to my talk in CAV'20 Session 3B about our Hampa paper.     
 **Jul/2020**:  Passed my Ph.D. candidacy exam!     
