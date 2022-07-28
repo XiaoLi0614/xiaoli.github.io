@@ -15,6 +15,7 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 ## News
 
+**May/2022**:  I am selected to receive GSA travel grant for 2022 IEEE Symposium on Security and Privacy.  
 **Apr/2022**:  I am selected to receive student travel grant for 2022 IEEE Symposium on Security and Privacy.  
 **Oct/2021**:  I am selected and funded to attend PLMW@SPLASH 2021.  
 **Jul/2021**:  Our work Hamraz is accepted to IEEE S&P'22 (accept rate ~15%)!  
@@ -27,11 +28,11 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 ## Previous Projects
 
-**Hamraz**:  How to have **confidentiality, integrity, and availability** with as few machine as possible for replicated objects? Better yet, we got the work done automatically.
+**Hamraz**:  How to have **confidentiality, integrity, and availability** with as few machine as possible for replicated objects? Better yet, we got the work done automatically. Our open source project are available: [Hamraz: code](https://github.com/XiaoLi0614/Secure_Partition.git)
 
 **Hampa**:  How to keep the **invariant and recency** of replicated objects as user specified with as little coordination as possible? Skip the manual labour and try out our tool with the help of program synthesis and the state-of-art SMT solver. Our tool and open source project are available: [Hampa: tool](https://github.com/XiaoLi0614/HampaAE), [Hampa: code](https://github.com/XiaoLi0614/CVCAutomation)
 
 ## Publications
 
-1. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, Hamraz: Resilient Object Partitioning and Replication, *to appear in the 43rd IEEE Symposium on Security and Privacy, May 2022.
+1. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hamraz: Resilient Object Partitioning and Replication](https://www.cs.ucr.edu/~lesani/companion/sp22/SP22.pdf), *in the 43rd IEEE Symposium on Security and Privacy, May 2022.
 2. [**CAV'20**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hampa: Solver-aided Recency-Aware Replication](https://www.cs.ucr.edu/~lesani/companion/cav20/CAV20.pdf), *in the 32nd International Conference on Computer-Aided Verification, July 2020.
