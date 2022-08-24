@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). I'm working as a graduate student researcher since the first day I entered S3 (Safe and Smart Software) lab thanks to my super nice advisor.
+I am a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). I'm working as a graduate student researcher since the first day I entered S3 (Safe and Smart Software) lab thanks to my advisor.
 
 ## Research Interest
 
