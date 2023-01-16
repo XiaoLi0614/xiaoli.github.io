@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). I'm working as a graduate student researcher since the first day I entered S3 (Safe and Smart Software) lab thanks to my advisor.
+I am a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). 
 
 ## Research Interest
 
@@ -15,6 +15,7 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 ## News
 
+**Nov/2022**:  I am selected to receive student travel grant for 2022 ACM CCS. 
 **May/2022**:  I am selected to receive GSA travel grant for 2022 IEEE Symposium on Security and Privacy.  
 **Apr/2022**:  I am selected to receive student travel grant for 2022 IEEE Symposium on Security and Privacy.  
 **Oct/2021**:  I am selected and funded to attend PLMW@SPLASH 2021.  
