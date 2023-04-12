@@ -27,6 +27,13 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 **Sep/2017**:  Attended University of California, Riverside for CS MS program.    
 **Jul/2017**:  Got my B.E. in Information Security from HUST(Huazhong University of Science and Technology) as *OutStanding Graduates*.    
 
+## Ongoing Projects
+
+**Well-formed Properties of Heterogeneous Quorum Systems**:  We prove an **impossibility result** that shows **quorum intersection, and quorum availability** is not sufficient for Byzantine reliable broadcast(BRB) and consensus in heterogenous quorum systems(HQS), where each process can select different quorums. Moreover, we propose quorum-inclusion to help achieve BRB and consensus with detailed protocols and proofs. Quorum-inclusion together with intersection and availability is so far the weakest condition we know for BRB and consensus in the HQS setting. Our results are available on arXiv now: [Impossibility](https://arxiv.org/abs/2304.04979)
+
+**Open Heterogeneous Quorum Systems**:  We presents reconfiguration protocols for heterogeneous quorum systems(HQS) in order to enable open membership for permissionless blockchains. We also presents trade-offs for the properties that reconfigurations can preserve, and accordingly, presents reconfiguration protocols and proves their correctness. We further present a graph characterization of heterogeneous quorum systems, and its application for reconfiguration optimization.Our results are available on arXiv now: [Open](https://arxiv.org/abs/2304.02156)
+
+
 ## Previous Projects
 
 **Hamraz**:  How to have **confidentiality, integrity, and availability** with as few machine as possible for replicated objects? Better yet, we got the work done automatically. Our open source project are available: [Hamraz: code](https://github.com/XiaoLi0614/Secure_Partition.git)
