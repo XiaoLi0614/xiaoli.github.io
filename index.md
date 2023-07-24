@@ -14,7 +14,7 @@ I'm interested in the theory and practice of distributed systems, computer secur
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
 ## News
-**Jul/2023**:  Our work (On the power of quorum subsumption for heterogeneous quorum systems) is accepted to DISC'23. 
+**Jul/2023**:  Our work (On the power of quorum subsumption for heterogeneous quorum systems) is accepted to DISC'23.   
 **Nov/2022**:  I am selected to receive student travel grant for 2022 ACM CCS.  
 **May/2022**:  I am selected to receive GSA travel grant for 2022 IEEE Symposium on Security and Privacy.  
 **Apr/2022**:  I am selected to receive student travel grant for 2022 IEEE Symposium on Security and Privacy.  
