@@ -14,6 +14,7 @@ I'm interested in the theory and practice of distributed systems, computer secur
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
 ## News
+**Jul/2023**: I am selected to receive the department scholarship to attend Grace Hopper Conference 2023.    
 **Jul/2023**:  Our work (On the power of quorum subsumption for heterogeneous quorum systems) is accepted to DISC'23.   
 **Mar/2023**:  I am selected to receive Dissertation Year Program Fellowship for 2023/2024.  
 **Nov/2022**:  I am selected to receive student travel grant for 2022 ACM CCS.  
@@ -30,6 +31,8 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 ## Ongoing Projects
 
+**Reconﬁgurable Clustered Byzantine Replication**: We design reconfiguration protocols for SMR across multiple clusters. We formally prove the safety and liveness properties of the reconfigurable clustered Byzantine replication and implement this framework for both HotStuff and BFT-Smart. Our experiment results show that clustered BFT SMR provides high throughput and low latency with dynamic membership.
+
 **Open Heterogeneous Quorum Systems**:  We present **reconfiguration protocols** for heterogeneous quorum systems(HQS) in order to enable open membership for permissionless blockchains. We also presents trade-offs for the properties that reconfigurations can preserve, and accordingly, presents reconfiguration protocols and proves their correctness. We further present a **graph characterization of HQS**, and its application for reconfiguration optimization.Our results are available on arXiv now: [Open](https://arxiv.org/abs/2304.02156)
 
 
@@ -42,6 +45,6 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 **Hampa**:  How to keep the **invariant and recency** of replicated objects as user specified with as little coordination as possible? Skip the manual labour and try out our tool with the help of program synthesis and the state-of-art SMT solver. Our tool and open source project are available: [Hampa: tool](https://github.com/XiaoLi0614/HampaAE), [Hampa: code](https://github.com/XiaoLi0614/CVCAutomation)
 
 ## Publications
-1. [**DISC'23**] **Xiao Li**, Eric Chan, Mhsen Lesani.
-1. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hamraz: Resilient Object Partitioning and Replication](https://www.cs.ucr.edu/~lesani/companion/sp22/SP22.pdf), *in the 43rd IEEE Symposium on Security and Privacy, May 2022.
-2. [**CAV'20**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hampa: Solver-aided Recency-Aware Replication](https://www.cs.ucr.edu/~lesani/companion/cav20/CAV20.pdf), *in the 32nd International Conference on Computer-Aided Verification, July 2020.
+1. [**DISC'23**] **Xiao Li**, Eric Chan, Mhsen Lesani, [On the power of quorum subsumption for heterogeneous quorum systems], *in the 37th International Symposium on Distributed Computing.
+2. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hamraz: Resilient Object Partitioning and Replication](https://www.cs.ucr.edu/~lesani/companion/sp22/SP22.pdf), *in the 43rd IEEE Symposium on Security and Privacy, May 2022.
+3. [**CAV'20**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hampa: Solver-aided Recency-Aware Replication](https://www.cs.ucr.edu/~lesani/companion/cav20/CAV20.pdf), *in the 32nd International Conference on Computer-Aided Verification, July 2020.
