@@ -9,7 +9,7 @@ I am a 5th-year Computer Science Ph.D. candidate at University of California, Ri
 
 ## Research Interest
 
-I'm interested in the theory and practice of distributed systems, computer security, and programming languages. One of my goals is to fill the gap between abstractions and interfaces of user-friendly sequential objects and complicated replicated objects with the help of type systems and automatic reasoning tools (Z3, CVC4, etc). I'm also interested in the foundation of consensus and distributed system protocols in the heterogeneous trust setting. 
+I'm interested in the theory and practice of distributed systems, computer security, and programming languages. I'm particularly interested in the foundation of consensus and distributed system protocols in the heterogeneous trust setting. 
 
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
@@ -35,7 +35,7 @@ Currently, I'm working on designing efficient consensus protocol with open membe
 
 **Reconﬁgurable Clustered Byzantine Replication**: We design reconfiguration protocols for SMR across multiple clusters. We formally prove the safety and liveness properties of the reconfigurable clustered Byzantine replication and implement this framework for both HotStuff and BFT-Smart. Our experiment results show that clustered BFT SMR provides high throughput and low latency with dynamic membership.
 
-**Open Heterogeneous Quorum Systems**:  We present **reconfiguration protocols** for heterogeneous quorum systems(HQS) in order to enable open membership for permissionless blockchains. We also presents trade-offs for the properties that reconfigurations can preserve, and accordingly, presents reconfiguration protocols and proves their correctness. We further present a **graph characterization of HQS**, and its application for reconfiguration optimization. Our results are available on arXiv now: [Open](https://arxiv.org/abs/2304.02156)
+**Reconfigurable Heterogeneous Quorum Systems**:  We present **reconfiguration protocols** for heterogeneous quorum systems(HQS) in order to enable open membership for permissionless blockchains. We also presents trade-offs for the properties that reconfigurations can preserve, and accordingly, presents reconfiguration protocols and proves their correctness. We further present a **graph characterization of HQS**, and its application for reconfiguration optimization. Our results are available on arXiv now: [Open](https://arxiv.org/abs/2304.02156)
 
 
 ## Previous Projects
