@@ -14,7 +14,8 @@ I'm interested in the theory and practice of distributed systems, computer secur
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
 ## News
-**Sep/2023**: I started my internship at Chainlink Labs as a research engineer.      
+**Sep/2023**: I started my internship at Chainlink Labs as a research engineer. So excited to get hands-on experience in the industry research environment.        
+**Sep/2023**: I passed my dissertation proposal on "Heterogeneous Byzantine Replicated systems".         
 **Jul/2023**: I am selected to receive the department scholarship to attend Grace Hopper Conference 2023.    
 **Jul/2023**:  Our work (On the power of quorum subsumption for heterogeneous quorum systems) is accepted to DISC'23.   
 **Mar/2023**:  I am selected to receive Dissertation Year Program Fellowship for 2023/2024.  
