@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am a 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/). 
+I am a 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am supervised by Prof. [Mohsen Lesani](https://mohsenlesani.github.io/). 
 
 ## Research Interest
 
@@ -14,6 +14,8 @@ I'm interested in the theory and practice of distributed systems, computer secur
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
 ## News
+**Mar/2024**:  I am selected to receive Dissertation Year Completion Fellowship for 2024.       
+**Feb/2024**:  I serve as a mentor for SIGPLAN Mentorship program, which is organized by Symposium on Principles of Programming Languages (POPL).      
 **Sep/2023**: I started my internship at Chainlink Labs as a research engineer. So excited to get hands-on experience in the industry research environment.        
 **Sep/2023**: I passed my dissertation proposal on "Heterogeneous Byzantine Replicated systems".         
 **Jul/2023**: I am selected to receive the department scholarship to attend Grace Hopper Conference 2023.    
