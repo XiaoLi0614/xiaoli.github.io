@@ -14,6 +14,7 @@ I'm interested in the theory and practice of distributed systems, computer secur
 Currently, I'm working on designing efficient consensus protocol with open membership.
 
 ## News
+**Mar/2024**:  I completed my internship at Chainlink Labs. Thanks for all the support from my mentor Dr. [Chrysa Stathakopoulou](https://chainlinklabs.com/research) and my manager [Lorenz Breidenbach](https://chainlinklabs.com/research). We worked on censorship-resistance reputation systems for leader-based BFT consensus. Stay tuned for more info.  
 **Mar/2024**:  I am selected to receive Dissertation Year Completion Fellowship for 2024.       
 **Feb/2024**:  I serve as a mentor for SIGPLAN Mentorship program, which is organized by Symposium on Principles of Programming Languages (POPL).      
 **Sep/2023**: I started my internship at Chainlink Labs as a research engineer. So excited to get hands-on experience in the industry research environment.        
