@@ -5,18 +5,19 @@ layout: default
 
 ## About Me
 
-I recently graduated with Ph.D. degree in Computer Science at University of California, Riverside (UCR). I was supervised by Prof. [Mohsen Lesani](https://mohsenlesani.github.io/). 
+I recently graduated with a Ph.D. degree in Computer Science from the University of California, Riverside (UCR). I was supervised by Prof. [Mohsen Lesani](https://mohsenlesani.github.io/). 
 
 ## Research Interest
 
 I'm interested in the theory and practice of distributed systems, computer security, and programming languages. I'm particularly interested in the foundation of consensus and distributed system protocols in the heterogeneous trust setting. 
 
-Currently, my research focus is designing efficient consensus protocol with open membership.
+Currently, my research focus is designing efficient consensus protocols with open membership.
 
-I will join Meta as a Research Scientist soon.
+I'm currently a Research Scientist at Meta.
 
 ## News
-**Sep/2024**:  I sucessfully defeneded my Ph.D. dissertation "Heterogeneous Byzantine Replicated Systems". Big thanks for all the people who have supported me through this journey. Special thanks to my cat Boba and dog Ori.    
+**Sep/2024**:  I joined Meta as a Research Scientist.  
+**Sep/2024**:  I successfully defended my Ph.D. dissertation "Heterogeneous Byzantine Replicated Systems". Big thanks to all the people who have supported me through this journey. Special thanks to my cat Boba and dog Ori.    
 **Aug/2024**:  Our work (Brief Announcement: Reconfigurable Heterogeneous Quorum Systems) is accepted to DISC'24.  
 **Mar/2024**:  I completed my internship at Chainlink Labs. Thanks for all the support from my mentor Dr. [Chrysa Stathakopoulou](https://chainlinklabs.com/research) and my manager [Lorenz Breidenbach](https://chainlinklabs.com/research). We worked on censorship-resistance reputation systems for leader-based BFT consensus.     
 **Mar/2024**:  I am selected to receive Dissertation Year Completion Fellowship for 2024.       
