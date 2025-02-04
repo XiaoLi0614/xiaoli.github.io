@@ -55,7 +55,7 @@ I'm currently a Research Scientist at Meta.
 **Hampa**:  How to keep the **invariant and recency** of replicated objects as user specified with as little coordination as possible? Skip the manual labor and try out our tool with the help of program synthesis and the state-of-art SMT solver. Our tool and open source project are available: [Hampa: tool](https://github.com/XiaoLi0614/HampaAE), [Hampa: code](https://github.com/XiaoLi0614/CVCAutomation)
 
 ## Publications
-1. [**DISC'24**] **Xiao Li**, Mohsen Lesani, [Brief Announcement: Reconfigurable Heterogeneous Quorum Systems], * will appear in the 38th International Symposium on Distributed Computing.
+1. [**DISC'24**] **Xiao Li**, Mohsen Lesani, [Brief Announcement: Reconfigurable Heterogeneous Quorum Systems], * in the 38th International Symposium on Distributed Computing.
 2. [**DISC'23**] **Xiao Li**, Eric Chan, Mohsen Lesani, [On the power of quorum subsumption for heterogeneous quorum systems](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.28), *in the 37th International Symposium on Distributed Computing.
 3. [**S&P'22**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hamraz: Resilient Object Partitioning and Replication](https://ieeexplore.ieee.org/abstract/document/9833661), *in the 43rd IEEE Symposium on Security and Privacy, May 2022.
 4. [**CAV'20**] **Xiao Li**, Farzin Houshmand, Mohsen Lesani, [Hampa: Solver-aided Recency-Aware Replication](https://link.springer.com/chapter/10.1007/978-3-030-53288-8_16), *in the 32nd International Conference on Computer-Aided Verification, July 2020.
